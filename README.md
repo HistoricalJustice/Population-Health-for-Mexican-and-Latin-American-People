@@ -46,6 +46,7 @@ Run the following command, replacing [URL] with the repository URL (you can copy
 git clone [URL]
 For example 
 git clone https://github.com/username/repository-name.git
+git clone historicaljustice.github.io.
 cd repository-name
 
 Keeping Your Clone Up-to-Date
